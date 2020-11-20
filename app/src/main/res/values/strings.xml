@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tugas Belajar Navigasi2</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="android_trivia">Android Trivia</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="baitun_nadhiroh">Baitun Nadhiroh</string>
+    <string name="made_by">Made By</string>
+    <string name="mulai">Mulai</string>
+    <string name="peraturan_ini_menjelaskan_betapa_penting_konsentrasi_yang_ada_pilihlah_jawaban_terbaik_menurut_anda_dan_selamat_mencoba">Peraturan ini menjelaskan betapa penting konsentrasi yang ada. Pilihlah jawaban terbaik menurut anda dan selamat mencoba</string>
+    <string name="peraturan_game">Peraturan Game</string>
+    <string name="play">Play</string>
+    <string name="next_match">Next Match</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="what_color_is_the_android_mascot">What color is the Android mascot?</string>
+    <string name="dikembangakan_oleh">Dikembangakan Oleh</string>
+    <string name="_18082010004">18082010004</string>
+    <string name="rules">rules</string>
+    <string name="about">about</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BCB2CC"
+    android:orientation="vertical"
+    tools:context="com.example.tugas7.About">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:fontFamily="@font/black_ops_one"
+        android:gravity="center"
+        android:text="@string/dikembangakan_oleh"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="33sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="282dp"
+        android:layout_height="271dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:src="@drawable/aku"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kavoon"
+        android:gravity="center"
+        android:text="@string/baitun_nadhiroh"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kavoon"
+        android:gravity="center"
+        android:text="@string/_18082010004"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
